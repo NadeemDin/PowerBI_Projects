@@ -3,7 +3,7 @@
 <p>This project displays my ability to take various datasets (Customer, Product, Sales, Territory etc) and create various visual data models which can be used to indicate and analyse KPIs. </p>
 
 The visualizations/dashboards can be used to gain various insights into the original datasets, insights such as but not limited to:
-- Specific product perfomance.
+- Specific product performance.
 - Revenue/profit by territory.
 - Customer detail insights.
 - Potential forecasts for future sales.
